@@ -1,0 +1,5 @@
+{
+    "number_of_players":5,
+    "number_of_decks":7,
+    "cards_reshuffle_boundry":40
+}
